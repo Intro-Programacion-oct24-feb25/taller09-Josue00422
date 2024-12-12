@@ -1,4 +1,9 @@
 # Taller 9 (Laboratorio)
+#Integrantes:
+-Adrian Urgiles
+-Joel Dominguez
+-Jhandry Naula
+-Jhordy Camacas
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
